@@ -8,7 +8,7 @@
 
 🐦 www.twitter.com/@demil0la
 
-🔗 www.linkedin.com/in/oei8ht
+🔗 www.linkedin.com/in/demilola
 
 <!-- ---
 
