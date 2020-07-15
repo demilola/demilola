@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 > I'm currently learning cross-platform app development (using Flutter).
 
