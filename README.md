@@ -1,5 +1,57 @@
 ### Hi there 👋
 
+> I'm currently learning cross-platform app development (using Flutter).
+
+# ☎️ Contact information
+
+📧 d.adefokun@outlook.com
+
+🐦 www.twitter.com/@demil0la
+
+🔗 www.linkedin.com/in/oei8ht
+
+<!-- ---
+
+# **👩🏻‍💻** Work experience
+
+## Title
+
+***Company**, Location – (Dates)*
+
+Your description here -->
+
+---
+
+# 🛠 Skills
+
+## 💻 Technology
+
+### Dart ⭐️⭐️⭐️
+
+### Flutter ⭐️⭐️⭐️
+
+### Firebase ⭐️⭐️
+
+---
+
+## 🗣 Languages
+
+### English 
+
+Native speaker
+
+
+---
+<!--
+# 📚 Education
+
+## **MD in Medicine**
+
+*2020*
+
+NMU - Kyiv
+
+-->
 <!--
 **oei8ht/oei8ht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
