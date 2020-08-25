@@ -1,12 +1,13 @@
-# Hi there 👋
 
-> I'm currently learning cross-platform app development (using Flutter).
+## Hi! I'm Demilola and I'm currently learning Dart and Flutter for cross-platform app development
 
-# ☎️ Contact information
+##  📫 How to reach me:
 
-📧 d.adefokun@outlook.com
+<!--📧 d.adefokun@outlook.com
 
-🐦 www.twitter.com/@demil0la
+🐦 www.twitter.com/@demil0la 
+--> 
+![Twitter Follow](https://img.shields.io/twitter/follow/demil0la?style=for-the-badge)
 
 🔗 www.linkedin.com/in/demilola
 
@@ -24,15 +25,15 @@ Your description here -->
 
 # 🛠 Skills
 
-## 💻 Technology
+<!-- ## 💻 Technology -->
 
-### Dart ⭐️⭐️⭐️
+### Dart 			⭐️⭐️⭐️
 
-### Flutter ⭐️⭐️⭐️
+### Flutter 		⭐️⭐️⭐️
 
-### Firebase ⭐️⭐️
+### Firebase 	⭐️⭐️
 
----
+<!-- ---
 
 ## 🗣 Languages
 
@@ -40,9 +41,8 @@ Your description here -->
 
 Native speaker
 
-
 ---
-<!--
+
 # 📚 Education
 
 ## **MD in Medicine**
