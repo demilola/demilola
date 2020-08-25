@@ -1,17 +1,18 @@
 
-## Hi! I'm Demilola and I'm currently learning Dart and Flutter for cross-platform app development
+## 👋🏾 Hi! I'm Demilola 
+## 🌱 I'm currently learning Dart and Flutter for cross-platform app development
 
-##  📫 How to reach me:
+##  📫 Reach me: 	[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='twitter' height='20' color = 'red'>](mailto:d.adefokun@outlook.com)	[<img src='https://simpleicons.org/icons/twitter.svg' alt='twitter' height='20' color = 'red'>](https://twitter.com/demil0la)								[<img src='https://simpleicons.org/icons/linkedin.svg' alt='twitter' height='20' color = 'red'>](https://www.linkedin.com/in/demilola)	 [<img src='https://simpleicons.org/icons/instagram.svg' alt='Instagram' height='18' color = 'red'>](https://www.instagram.com/oa_mr)
 
 <!--📧 d.adefokun@outlook.com
 
 🐦 www.twitter.com/@demil0la 
---> 
-![Twitter Follow](https://img.shields.io/twitter/follow/demil0la?style=for-the-badge)
+
+
 
 🔗 www.linkedin.com/in/demilola
 
-<!-- ---
+ ---
 
 # **👩🏻‍💻** Work experience
 
@@ -21,9 +22,8 @@
 
 Your description here -->
 
----
 
-# 🛠 Skills
+## 🛠 Skills
 
 <!-- ## 💻 Technology -->
 
@@ -32,6 +32,8 @@ Your description here -->
 ### Flutter 		⭐️⭐️⭐️
 
 ### Firebase 	⭐️⭐️
+
+![Demi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=demilola&theme=radical&show_icons=true&&line_height=40)![Demi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demilola&theme=radical&show_icons=true&layout=compact)
 
 <!-- ---
 
